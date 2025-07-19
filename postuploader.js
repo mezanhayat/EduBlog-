@@ -13,7 +13,7 @@
 const blogPosts = [
    
     {
-    id: 5,
+    id: 1,
     title: '🏦 Spandana Sphoorty’s ₹400 Crore Rights Issue: A Timely Move to Rebuild and Regrow',
     contentType: 'blog',
     excerpt: '## Spandana Sphoorty Financial Ltd., one of India’s prominent microfinance institutions, is back in the spotlight—this time with a bold move to raise capital through a ₹400 crore rights issue.',
@@ -117,7 +117,7 @@ As technology continues to evolve, we can expect to see:
     },
 
     {
-    id: 5,
+    id: 3,
     title: '# 🌀 Stranger Things Season 5: What We Know About the Epic Final Chapter',
     contentType: 'blog',
     excerpt: 'By Md Rehanullah  ## The end is near—for the Upside Down, for Hawkins, and for one of Netflix’s most iconic shows of all time. Stranger Things Season 5 is set to close the door on the Duffer Br',
