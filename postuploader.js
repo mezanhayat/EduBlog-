@@ -11,13 +11,15 @@
 // ========================
 // To add a new blog post, add a new object to this array
 const blogPosts = [
-    
-       {
-    id: 1,
+   
+    {
+    id: 5,
     title: '🏦 Spandana Sphoorty’s ₹400 Crore Rights Issue: A Timely Move to Rebuild and Regrow',
     contentType: 'blog',
     excerpt: '## Spandana Sphoorty Financial Ltd., one of India’s prominent microfinance institutions, is back in the spotlight—this time with a bold move to raise capital through a ₹400 crore rights issue.',
-    content: `**📌 What Is a Rights Issue?**
+    content: `![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWWNPw-IeN2K9CH1DajfCe3EtTjQ0x3hlhhvJCA6KihXnK5KvHfxsWSg&s=10)
+
+**📌 What Is a Rights Issue?**
 A rights issue allows a company to raise capital by giving existing shareholders the opportunity to purchase additional shares, usually at a discounted price. This is a common method for companies seeking to raise funds without diluting ownership through external investors.
 
 *🧾 Key Details of Spandana’s Rights Issue*
@@ -32,6 +34,8 @@ This capital raise is part of a broader plan to secure ₹750 crore in equity fu
 **📉 The Backdrop: What Triggered the Fundraising?**
 Spandana has been through a rough patch. For the financial year ending March 2025, the company reported a net loss of ₹1,035 crore, largely due to deteriorating asset quality and rising loan delinquencies. Gross Non-Performing Assets (NPAs) rose to 5.63%, raising alarm among investors and stakeholders.
 In a business like microfinance, where lending to low-income borrowers comes with inherent risk, any dip in repayment rates can severely impact profitability. The rights issue is Spandana’s attempt to plug the capital gap and prepare for recovery.
+
+![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZl3MkaR6niaqEfd1f2E8swcSM1It4Mfd2yh4_1u-puomvyqQd-sBMwF8q&s=10)
 
 **💼 What Will the Funds Be Used For?**
 The company has outlined a few key uses for the capital raised:
@@ -59,6 +63,8 @@ Kedaara Capital, the largest shareholder with close to 48% stake, is expected to
 
 **📈 Market Sentiment: Turning a Corner?**
 Despite the losses, the market has responded with cautious optimism. The stock has seen a slight uptick since the rights issue announcement, reflecting hopes of a rebound. Investors are watching closely to see if this capital raise leads to operational improvement.
+
+![Alt text](https://content.jdmagicbox.com/comp/def_content/finance_companies/default-finance-companies-2.jpg?fit=around%7C350:350&crop=350:350;*,*)
 
 **🧭 Final Thoughts: Is This a Smart Move?**
 In simple terms: Yes, this rights issue is a necessary and strategic step for Spandana Sphoorty.
