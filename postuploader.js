@@ -11,37 +11,64 @@
 // ========================
 // To add a new blog post, add a new object to this array
 const blogPosts = [
-    {
-        id: 1,
-        title: 'Effective Study Techniques for Remote Learning',
-        contentType: 'blog',
-        excerpt: 'Discover science-backed study methods that can boost your productivity while learning from home.',
-        content: `# Effective Study Techniques for Remote Learning
+    
+       {
+    id: 1,
+    title: '🏦 Spandana Sphoorty’s ₹400 Crore Rights Issue: A Timely Move to Rebuild and Regrow',
+    contentType: 'blog',
+    excerpt: '## Spandana Sphoorty Financial Ltd., one of India’s prominent microfinance institutions, is back in the spotlight—this time with a bold move to raise capital through a ₹400 crore rights issue.',
+    content: `**📌 What Is a Rights Issue?**
+A rights issue allows a company to raise capital by giving existing shareholders the opportunity to purchase additional shares, usually at a discounted price. This is a common method for companies seeking to raise funds without diluting ownership through external investors.
 
-**Remote learning** has become a significant part of education worldwide. To make the most of it, consider these proven techniques:
+*🧾 Key Details of Spandana’s Rights Issue*
+* Issue Size: ₹400 crore
+* Offer Price: ₹230 per share (a ~25% discount from the current market price)
+* Entitlement Ratio: 10 shares for every 41 held
+* Record Date: July 24, 2025
+* Issue Period: August 1 to August 11, 2025
+* Payment Schedule: ₹115 at application, and ₹115 in March 2027
+This capital raise is part of a broader plan to secure ₹750 crore in equity funding during FY26.
 
-## 1. Create a Dedicated Study Space
+**📉 The Backdrop: What Triggered the Fundraising?**
+Spandana has been through a rough patch. For the financial year ending March 2025, the company reported a net loss of ₹1,035 crore, largely due to deteriorating asset quality and rising loan delinquencies. Gross Non-Performing Assets (NPAs) rose to 5.63%, raising alarm among investors and stakeholders.
+In a business like microfinance, where lending to low-income borrowers comes with inherent risk, any dip in repayment rates can severely impact profitability. The rights issue is Spandana’s attempt to plug the capital gap and prepare for recovery.
 
-Your environment affects your focus. Set up a space that's:
-- Free from distractions
-- Comfortable but not too comfortable
-- Well-lit and well-ventilated
+**💼 What Will the Funds Be Used For?**
+The company has outlined a few key uses for the capital raised:
+1. Strengthening the Balance Sheet: Increase capital adequacy to comply with regulatory norms.
+2. Scaling Lending Operations: Resume growth by expanding its loan portfolio, especially in high-performing geographies.
+3. Technology and Risk Management: Improve collections, credit assessments, and customer outreach through digitization.
+4. Rebuilding Trust: Sending a strong signal to investors and rating agencies that the company is back on the path to recovery.
 
-![Ideal Study Space](https://images.unsplash.com/photo-1598004848598-22f410a6c180?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80)
+**📊 What This Means for Shareholders**
+*✅ For Existing Shareholders:*
+* Opportunity to buy shares at a discount and maintain your ownership proportion.
+* If you believe in the turnaround story, this could be a good entry point.
+* If you choose not to subscribe, you may face dilution as your percentage ownership drops.
+❗ For Prospective Investors:
+* You can buy Rights Entitlements (REs) on the stock exchange if you're not already a shareholder.
+* Rights shares, though discounted, carry risk if the company fails to execute its turnaround effectively.
 
-## 2. Use the Pomodoro Technique
+**👨‍💼 Promoter Support: **A Positive Signal
+Kedaara Capital, the largest shareholder with close to 48% stake, is expected to participate in the rights issue. This shows confidence from the top, and promoter participation often encourages public and institutional investors to follow suit.
 
-Work in focused 25-minute intervals followed by 5-minute breaks. After four cycles, take a longer break of 15-30 minutes.
+**⚖️ Risks to Consider**
+1. Execution Risk: Raising funds is just the start. Spandana needs to improve collections, reduce NPAs, and stabilize operations.
+2. Dilution Risk: For shareholders who don’t subscribe, their ownership percentage will decrease.
+3. Regulatory Headwinds: The microfinance sector remains under the watchful eye of the Reserve Bank of India. Any unfavorable regulation could impact margins.
 
-![Pomodoro Timer](https://images.unsplash.com/photo-1516383740770-fbcc5ccbece0?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80)
+**📈 Market Sentiment: Turning a Corner?**
+Despite the losses, the market has responded with cautious optimism. The stock has seen a slight uptick since the rights issue announcement, reflecting hopes of a rebound. Investors are watching closely to see if this capital raise leads to operational improvement.
 
-## 3. Active Recall Practice
-
-Don't just read - test yourself! Close your notes and try to recall the information. This strengthens neural pathways and improves retention.`,
-        tags: ['study techniques', 'remote learning', 'productivity'],
-        publishedAt: '2025-07-01',
-        isPublished: true
-    },
+**🧭 Final Thoughts: Is This a Smart Move?**
+In simple terms: Yes, this rights issue is a necessary and strategic step for Spandana Sphoorty.
+The company is signaling its intent to bounce back from a difficult year, and it's doing so in a shareholder-friendly way—offering discounted shares rather than diluting ownership via private placements. The challenge now lies in effective capital deployment, risk control, and restoring profitability.
+If you’re a current shareholder with long-term faith in the company’s mission and management, subscribing to the rights issue could be a calculated bet. For others, this is a good moment to watch closely but tread with caution.
+`,
+    tags: ['Information', 'financial', 'government'],
+    publishedAt: '2025-07-19',
+    isPublished: true
+},
     {
         id: 2,
         title: 'The Impact of Technology on Modern Education',
