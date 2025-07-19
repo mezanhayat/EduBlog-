@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduBlog - Educational Content & Student Resources</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav">
+            <div class="nav-container">
+                <div class="nav-brand">
+                    <h1>EduBlog</h1>
+                </div>
+
+                
+
+                <!-- Replace your current nav-menu div with this: -->
+<div class="nav-menu" id="nav-menu">
+    <a href="#home" class="nav-link">Home</a>
+    <a href="blogs.html" class="nav-link">Blogs</a>
+    <a href="stories.html" class="nav-link">Stories</a>
+    <a href="news.html" class="nav-link">News</a>
+    <a href="about.html" class="nav-link">About</a>
+    <a href="#contact" class="nav-link">Contact</a>
+</div>
+
+                
+               <button class="nav-toggle" id="nav-toggle" aria-label="Toggle navigation">
+                    <i class="fas fa-bars"></i>
+               </button>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-container">
+            <div class="hero-content">
+                <h1 class="hero-title">Welcome to EduBlog</h1>
+                <p class="hero-subtitle">Your Gateway to Educational Excellence</p>
+                <p class="hero-description">
+                    Discover inspiring educational content, student success stories, and the latest news in education. 
+                    Connect with educators and access resources designed to enhance your learning journey.
+                </p>
+                <div class="hero-actions">
+                    <a href="#content" class="btn btn-primary btn-lg">Explore Content</a>
+                    <a href="#contact" class="btn btn-outline btn-lg">Get in Touch</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Featured Content -->
+    <section class="featured-content">
+        <div class="container">
+            <h2 class="section-title">Featured Content</h2>
+            <div class="featured-grid">
+                <div class="featured-card">
+                    <div class="featured-icon">
+                        <i class="fas fa-graduation-cap"></i>
+                    </div>
+                    <h3>Educational Blogs</h3>
+                    <p>In-depth articles on study techniques, learning strategies, and academic success tips.</p>
+                    <a href="#blogs" class="featured-link">Read Blogs <i class="fas fa-arrow-right"></i></a>
+                </div>
+                <div class="featured-card">
+                    <div class="featured-icon">
+                        <i class="fas fa-heart"></i>
+                    </div>
+                    <h3>Inspiring Stories</h3>
+                    <p>Real student journeys of overcoming challenges and achieving academic excellence.</p>
+                    <a href="#stories" class="featured-link">Read Stories <i class="fas fa-arrow-right"></i></a>
+                </div>
+                <div class="featured-card">
+                    <div class="featured-icon">
+                        <i class="fas fa-newspaper"></i>
+                    </div>
+                    <h3>Education News</h3>
+                    <p>Latest updates on scholarships, educational opportunities, and academic developments.</p>
+                    <a href="#news" class="featured-link">Read News <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Content Grid -->
+    <section id="content" class="content-section">
+        <div class="container">
+            <!-- Blogs Section -->
+            <div id="blogs" class="content-category">
+                <h2 class="category-title">Educational Blogs</h2>
+                <div class="content-grid" id="blogs-grid">
+                    <!-- Blog posts will be loaded by JavaScript -->
+                </div>
+                <div class="view-all-container">
+    <a href="blogs.html" class="btn btn-primary">
+        Read All Blogs <i class="fas fa-arrow-right"></i>
+    </a>
+</div>
+
+            </div>
+
+            <!-- Stories Section -->
+            <div id="stories" class="content-category">
+                <h2 class="category-title">Student Stories</h2>
+                <div class="content-grid" id="stories-grid">
+                    <!-- Story posts will be loaded by JavaScript -->
+                </div>
+                <div class="view-all-container">
+    <a href="stories.html" class="btn btn-primary">
+        Read All Blogs <i class="fas fa-arrow-right"></i>
+    </a>
+</div>
+
+            </div>
+
+            <!-- News Section -->
+            <div id="news" class="content-category">
+                <h2 class="category-title">Education News</h2>
+                <div class="content-grid" id="news-grid">
+                    <!-- News posts will be loaded by JavaScript -->
+                </div>
+                <div class="view-all-container">
+    <a href="news.html" class="btn btn-primary">
+        Read All Blogs <i class="fas fa-arrow-right"></i>
+    </a>
+</div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Form -->
+    <section id="contact" class="contact-section">
+        <div class="container">
+            <div class="contact-content">
+                <div class="contact-info">
+                    <h2>Get in Touch</h2>
+                    <p>Have questions about your academic journey? Need personalized guidance? I'm here to help!</p>
+                    
+                    <div class="contact-features">
+                        <div class="contact-feature">
+                            <i class="fas fa-user-graduate"></i>
+                            <div>
+                                <h4>Personalized Guidance</h4>
+                                <p>Get tailored advice for your academic goals</p>
+                            </div>
+                        </div>
+                        <div class="contact-feature">
+                            <i class="fas fa-clock"></i>
+                            <div>
+                                <h4>Quick Response</h4>
+                                <p>I'll get back to you within 24 hours</p>
+                            </div>
+                        </div>
+                        <div class="contact-feature">
+                            <i class="fas fa-envelope"></i>
+                            <div>
+                                <h4>Newsletter Updates</h4>
+                                <p>Stay updated with latest educational content</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <form class="contact-form" id="contact-form">
+                    <div class="form-group">
+                        <label for="studentName">Your Name *</label>
+                        <input type="text" id="studentName" name="studentName" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="studentEmail">Email Address *</label>
+                        <input type="email" id="studentEmail" name="studentEmail" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="subject">Subject *</label>
+                        <input type="text" id="subject" name="subject" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="relatedContent">Related Content (Optional)</label>
+                        <input type="text" id="relatedContent" name="relatedContent" placeholder="Mention any specific blog post or topic">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="message">Your Message *</label>
+                        <textarea id="message" name="message" rows="5" required placeholder="Share your questions, challenges, or what you're hoping to achieve..."></textarea>
+                    </div>
+                    
+                    <div class="form-group checkbox-group">
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="newsletter" name="newsletter">
+                            <span class="checkmark"></span>
+                            Subscribe to newsletter for educational tips and updates
+                        </label>
+                    </div>
+                    
+                    <button type="submit" class="btn btn-primary btn-lg">
+                        <i class="fas fa-paper-plane"></i> Send Message
+                    </button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>EduBlog</h3>
+                    <p>Empowering students through educational content, inspiring stories, and academic guidance.</p>
+                </div>
+                
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#content">Content</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                        <li><a href="terms-conditions.html">Terms & Conditions</a></li>
+                        <li><a href="sitemap.html">Sitemap</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h4>Connect</h4>
+                    <div class="social-links">
+                        <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
+                        <a href="#" class="social-link"><i class="fab fa-linkedin"></i></a>
+                        <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2025 EduBlog. All rights reserved. Built with passion for education.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Post Detail Modal -->
+    <div id="post-detail-modal" class="modal" role="dialog" aria-labelledby="post-detail-title" aria-hidden="true">
+        <div class="modal-content large">
+            <div class="modal-header">
+                <h2 id="post-detail-title">Post Details</h2>
+                <button type="button" class="close-btn" id="close-post-detail" aria-label="Close">&times;</button>
+            </div>
+            <div class="modal-body">
+                <article id="post-detail-content" class="post-content">
+                    <!-- Post content will be loaded here -->
+                </article>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+        <i id="toast-icon" class="fas fa-check-circle"></i>
+        <span id="toast-message">Success!</span>
+        <button class="toast-close" aria-label="Close">&times;</button>
+    </div>
+
+    <!-- Back to Top Button -->
+    <button id="scrollToTop" class="scroll-top-btn" aria-label="Scroll to top">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
+    <!-- Simple script without all the complexity -->
+    <!-- At the bottom of your index.html, just before </body> -->
+<!-- Load post data first -->
+<script src="postuploader.js"></script>
+<!-- Then load main script -->
+<script src="script.js"></script>
+</body>
+</html>
