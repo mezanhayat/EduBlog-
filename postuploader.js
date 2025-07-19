@@ -84,7 +84,7 @@ As technology continues to evolve, we can expect to see:
     },
     {
         id: 3,
-        title: 'Vtvgvgv',
+        title: 'ftufugvugvuvuhvuhvihvih',
         contentType: 'blog',
         excerpt: 'y gvuygvuyfvvg',
         content: `Gvvgvvtvtccexexwx ijbjbibu
@@ -92,7 +92,8 @@ As technology continues to evolve, we can expect to see:
         ihhibbibhbbuibiubyuhbuhbuybihbihbuhbuhbuhbuhbhubuhbugvguvgauvaugvauh ushvu aug ush ug aug aug aug agu ug aug aug
         aijnain uan uh auh auh uha uha uh auh ahbus hus uh suh uh suh suh u hss
         sj is i hsi ish ih suhbsuh sin sih ish uhs uha uha ih sihus 
-        sm is ji sih sij sij iu shi shi sih sih sih sih sih sih sih ihs ih sih sih sih ihs`,
+        sm is ji sih sij sij iu shi shi sih sih sih sih sih sih sih ihs ih sih sih sih ugvuyvuyv
+        hv`,
         tags: ['Education'],
         publishedAt: '2025-07-19',
         isPublished: true
