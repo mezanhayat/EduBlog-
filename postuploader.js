@@ -16,7 +16,7 @@ const blogPosts = [
     id: 1,
     title: '🏦 Spandana Sphoorty’s ₹400 Crore Rights Issue: A Timely Move to Rebuild and Regrow',
     contentType: 'blog',
-    excerpt:,
+    excerpt:'A rights issue allows a company to raise capital by giving existing shareholders the opportunity to purchase additional shares, usually at a discounted price',
     content: `![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWWNPw-IeN2K9CH1DajfCe3EtTjQ0x3hlhhvJCA6KihXnK5KvHfxsWSg&s=10)
 
 **📌 What Is a Rights Issue?**
