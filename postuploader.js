@@ -16,7 +16,7 @@ const blogPosts = [
     id: 1,
     title: '🏦 Spandana Sphoorty’s ₹400 Crore Rights Issue: A Timely Move to Rebuild and Regrow',
     contentType: 'blog',
-    excerpt: '## Spandana Sphoorty Financial Ltd., one of India’s prominent microfinance institutions, is back in the spotlight—this time with a bold move to raise capital through a ₹400 crore rights issue.',
+    excerpt:,
     content: `![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWWNPw-IeN2K9CH1DajfCe3EtTjQ0x3hlhhvJCA6KihXnK5KvHfxsWSg&s=10)
 
 **📌 What Is a Rights Issue?**
@@ -118,9 +118,9 @@ As technology continues to evolve, we can expect to see:
 
     {
     id: 3,
-    title: '# 🌀 Stranger Things Season 5: What We Know About the Epic Final Chapter',
+    title: '🌀 Stranger Things Season 5: What We Know About the Epic Final Chapter',
     contentType: 'blog',
-    excerpt: 'By Md Rehanullah  ## The end is near—for the Upside Down, for Hawkins, and for one of Netflix’s most iconic shows of all time. Stranger Things Season 5 is set to close the door on the Duffer Br',
+    excerpt: ' The end is near—for the Upside Down, for Hawkins, and for one of Netflix’s most iconic shows of all time. Stranger Things Season 5 is set to close the door on the Duffer Br',
     content: `**📅 When Does Stranger Things Season 5 Release?**
 
 Netflix has confirmed the season will be released in three parts:
@@ -149,17 +149,17 @@ And if the teaser trailer is any hint, we’ll also be diving deeper into the Up
 
 All the key players return for the final season:
 
-Millie Bobby Brown as Eleven
-Finn Wolfhard as Mike
-Noah Schnapp as Will
-Sadie Sink as Max
-Caleb McLaughlin as Lucas
-Gaten Matarazzo as Dustin
-David Harbour as Hopper
-Winona Ryder as Joyce
-Joe Keery as Steve
-Jamie Campbell Bower as Vecna
-And joining the cast is none other than Linda Hamilton, playing a mysterious new figure named Dr. Kay. Could she hold the key to stopping the Upside Down once and for all?
+-Millie Bobby Brown as Eleven
+-Finn Wolfhard as Mike
+-Noah Schnapp as Will
+-Sadie Sink as Max
+-Caleb McLaughlin as Lucas
+-Gaten Matarazzo as Dustin
+-David Harbour as Hopper
+-Winona Ryder as Joyce
+-Joe Keery as Steve
+-Jamie Campbell Bower as Vecna
+-And joining the cast is none other than Linda Hamilton, playing a mysterious new figure named Dr. Kay. Could she hold the key to stopping the Upside Down once and for all?
 
 ![Alt text](https://pbs.twimg.com/media/GwOu02GXUAApvBV?format=jpg&name=large)
 
@@ -203,35 +203,37 @@ So grab your walkie-talkies, turn up the Kate Bush, and get ready. Stranger Thin
 // To add a new story, add a new object to this array
 const storyPosts = [
     {
-        id: 4,
-        title: 'From Failing Grades to University Honors',
-        contentType: 'story',
-        excerpt: 'How I transformed my academic performance through persistence and finding the right learning methods.',
-        content: `# From Failing Grades to University Honors
+    id: 4,
+    title: '"Lines and Light" by MEHER PARVEEN',
+    contentType: 'story',
+    excerpt: 'A story of a quiet, artistic girl finds strength in sketches, calligraphy, and debate, now stepping into digital marketing and college life.',
+    content: `The buzzing of my phone pulled me out of my thoughts. A notification from my digital marketing course—it was another reminder that I was exactly where I had dreamed of being. Not long ago, this version of me felt like someone else's story.
 
-## The Early Struggles
+But before I get ahead of myself, let me start from the beginning—not with names or labels, but with quiet afternoons and the smell of pencils.
+ 
+I was always the quiet one. The kind of girl who smiled more with her eyes than her lips. Not because I was sad or bitter, but because silence was my comfort zone. While others ran around during recess, I found peace in corners, sketching whatever came to mind. My world didn’t need noise—it came alive through lines, shadows, and color.
+ 
+One year, I won first prize in a drawing competition. The applause felt distant, but the pride in my father’s eyes? That moment still lives with me. I won again the next year—but it wasn’t the certificate that mattered. It was knowing I’d made my parents proud.
+ 
+I guess that’s what I’ve always chased. Not fame or perfection—just the warmth in their smiles. It became my anchor.
+ 
+Most people never really knew me. Even my mom, whom I love deeply, didn’t know all the storms I’ve weathered inside. It wasn’t that I didn’t trust her. I just never found the right words. Expressing myself aloud always felt like handing someone my rawest parts without any protection. So I sketched. I wrote. I debated.
+ 
+Yes, debated. Strange for an introvert, right? But when I spoke on stage during the inter-school debate in 10th, it was like someone else took over. I spoke with fire, not for attention, but for conviction. I won that day—but more importantly, I felt seen, even if only for a few minutes.
+ 
+I have a small circle of friends and they are home in a world that often felt too big. We don’t talk every day, but when we do, it means everything.
+ 
+Then there’s the Arabic calligraphy. It started as curiosity, but soon became love. The elegance of the script, the art within each letter—it was soothing, almost meditative. I gifted many of my pieces—some to teachers, others to friends. A few still sit on the shelf above my desk, reminding me of how far I’ve come.
+ 
+After 12th, the question of “what next?” hung in the air.
 
-In my freshman year, I was barely passing my classes. The transition from high school to university hit me hard. My study habits weren't working, and I felt overwhelmed by the workload.
 
-![Student Stress](https://images.unsplash.com/photo-1523240795612-9a054b0db644?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80)
-
-## The Turning Point
-
-After failing two midterms, I knew something had to change. I reached out to my university's academic support center and discovered I had an undiagnosed learning disability. With this new understanding, I could finally develop strategies that worked for me.
-
-## The Transformation
-
-I began recording lectures, using text-to-speech software, and working with a study group. These accommodations made all the difference. By my junior year, I was making the Dean's List consistently.
-
-![Graduation Success](https://images.unsplash.com/photo-1523580494863-6f3031224c94?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80)
-
-## The Lesson
-
-Sometimes what looks like failure is just a mismatch between your learning style and traditional methods. Don't be afraid to seek help and try different approaches until you find what works for you.`,
-        tags: ['success story', 'perseverance', 'learning disabilities'],
-        publishedAt: '2025-07-05',
-        isPublished: true
-    }
+I’m not at the finish line. In fact, I’ve only just taken the first step. Yesterday was my first day in the digital marketing course. It’s all new, a little overwhelming, but exciting in a way that makes my heart race. College is just around the corner—I'll be studying BSc Honours in Physics and Mathematics. It's going to be a challenge, I know that, but I'm ready. I don’t have a job yet, but I want to—so I can support myself, even if it's just in small ways. I’m still that quiet girl with a sketchbook and dreams that don’t make much noise. But I’m learning, slowly, to build a life on my own terms. Not to prove anything to the world, just to lift a little weight off my family’s shoulders and to honor the hopes they’ve placed in me.
+ `,
+    tags: ['Inspiration story', 'Self Confidence', 'EduStories'],
+    publishedAt: '2025-07-21',
+    isPublished: true
+}
 ];
 
 // ========================
