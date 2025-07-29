@@ -202,36 +202,36 @@ So grab your walkie-talkies, turn up the Kate Bush, and get ready. Stranger Thin
 // ========================
 // To add a new story, add a new object to this array
 const storyPosts = [
-    {
+   {
     id: 4,
-    title: '"Lines and Light" by MEHER PARVEEN',
+    title: 'QUITE THOUGHTS by Mia',
     contentType: 'story',
-    excerpt: 'A story of a quiet, artistic girl finds strength in sketches, calligraphy, and debate, now stepping into digital marketing and college life.',
+    excerpt: 'A quiet girl finds her voice through art, debate, and ambition, beginning her journey in digital marketing and higher education.',
     content: `The buzzing of my phone pulled me out of my thoughts. A notification from my digital marketing course—it was another reminder that I was exactly where I had dreamed of being. Not long ago, this version of me felt like someone else's story.
 
+![Alt text](https://pbs.twimg.com/media/GxBozG8aEAAZMpI.jpg)
+
 But before I get ahead of myself, let me start from the beginning—not with names or labels, but with quiet afternoons and the smell of pencils.
- 
+
 I was always the quiet one. The kind of girl who smiled more with her eyes than her lips. Not because I was sad or bitter, but because silence was my comfort zone. While others ran around during recess, I found peace in corners, sketching whatever came to mind. My world didn’t need noise—it came alive through lines, shadows, and color.
- 
+
 One year, I won first prize in a drawing competition. The applause felt distant, but the pride in my father’s eyes? That moment still lives with me. I won again the next year—but it wasn’t the certificate that mattered. It was knowing I’d made my parents proud.
- 
+
 I guess that’s what I’ve always chased. Not fame or perfection—just the warmth in their smiles. It became my anchor.
- 
+
 Most people never really knew me. Even my mom, whom I love deeply, didn’t know all the storms I’ve weathered inside. It wasn’t that I didn’t trust her. I just never found the right words. Expressing myself aloud always felt like handing someone my rawest parts without any protection. So I sketched. I wrote. I debated.
- 
+
 Yes, debated. Strange for an introvert, right? But when I spoke on stage during the inter-school debate in 10th, it was like someone else took over. I spoke with fire, not for attention, but for conviction. I won that day—but more importantly, I felt seen, even if only for a few minutes.
- 
+
 I have a small circle of friends and they are home in a world that often felt too big. We don’t talk every day, but when we do, it means everything.
- 
+
 Then there’s the Arabic calligraphy. It started as curiosity, but soon became love. The elegance of the script, the art within each letter—it was soothing, almost meditative. I gifted many of my pieces—some to teachers, others to friends. A few still sit on the shelf above my desk, reminding me of how far I’ve come.
- 
+
 After 12th, the question of “what next?” hung in the air.
 
-
-I’m not at the finish line. In fact, I’ve only just taken the first step. Yesterday was my first day in the digital marketing course. It’s all new, a little overwhelming, but exciting in a way that makes my heart race. College is just around the corner—I'll be studying BSc Honours in Physics and Mathematics. It's going to be a challenge, I know that, but I'm ready. I don’t have a job yet, but I want to—so I can support myself, even if it's just in small ways. I’m still that quiet girl with a sketchbook and dreams that don’t make much noise. But I’m learning, slowly, to build a life on my own terms. Not to prove anything to the world, just to lift a little weight off my family’s shoulders and to honor the hopes they’ve placed in me.
- `,
-    tags: ['Inspiration story', 'Self Confidence', 'EduStories'],
-    publishedAt: '2025-07-21',
+I’m not at the finish line. In fact, I’ve only just taken the first step. Yesterday was my first day in the digital marketing course. It’s all new, a little overwhelming, but exciting in a way that makes my heart race. College is just around the corner—I'll be studying BSc Honours in Physics and Mathematics. It's going to be a challenge, I know that, but I'm ready. I don’t have a job yet, but I want to—so I can support myself, even if it's just in small ways. I’m still that quiet girl with a sketchbook and dreams that don’t make much noise. But I’m learning, slowly, to build a life on my own terms. Not to prove anything to the world, just to lift a little weight off my family’s shoulders and to honor the hopes they’ve placed in me.`,
+    tags: ['Story', 'Inspiring', 'education'],
+    publishedAt: '2025-07-29',
     isPublished: true
 }
 ];
