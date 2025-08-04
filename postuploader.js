@@ -286,7 +286,7 @@ As a community – educators, parents, authorities, and students themselves – 
 // To add a new story, add a new object to this array
 const storyPosts = [
    {
-    id: 4,
+    id: 5,
     title: 'QUITE THOUGHTS by Mia',
     contentType: 'story',
     excerpt: 'A quiet girl finds her voice through art, debate, and ambition, beginning her journey in digital marketing and higher education.',
@@ -325,7 +325,7 @@ I’m not at the finish line. In fact, I’ve only just taken the first step. Ye
 // To add a new news item, add a new object to this array
 const newsPosts = [
     {
-        id: 5,
+        id: 6,
         title: 'New Scholarship Program Launches for STEM Students',
         contentType: 'news',
         excerpt: 'A major tech company has announced a $5 million scholarship fund targeting underrepresented groups in STEM fields.',
